@@ -1,0 +1,7 @@
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\pr40-2021\source\repos\Vezbe3\Zadatak1\obj\Debug\Zadatak1.pdb
